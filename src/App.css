@@ -1,0 +1,80 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.App {
+  text-align: center;
+}
+.header{
+  text-align: center;
+  
+  
+}
+.navbar{
+  padding: 10px;
+  margin: 10px;font-size: large;
+  gap: 20px;
+  
+}
+
+.item-list {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.cards-items {
+  display: flex;
+}
+
+.detailCont {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: row;
+}
+
+.countDiv {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  margin-bottom: 5px;
+}
+
+.countDiv button {
+  margin-left: 15px;
+}
+
+.loading,
+.toflex {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.marginRight {
+  margin-right: 5px;
+}
+
+.marginTop {
+  margin-top: 15px;
+}
+
+.center {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.navegacion {
+  text-decoration: none;
+  color: gray;
+  font-weight: bold;
+}
+
+.navegacion:hover {
+  color: cornflowerblue;
+}

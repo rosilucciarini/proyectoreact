@@ -1,0 +1,110 @@
+[
+    {
+        "id": 1,
+        "nombre": "BUZO URBANO NIKE SPORTSWEAR ICON CLASH MUJER",
+        "category": "indumentaria",
+        "detalle": "Complementá tus looks con el Buzo Urbano Nike Sportswear Icon Clash Mujer. Para entrenar o vestir cómoda en tu día a día. Confeccionado con algodón supersuave que te asegura confort en cada uso. La versatilidad de este buzo hace que puedas combinarlo con tus prendas favoritas, desde joggins hasta jeans. Úsalo y sentí la comodidad y estilo que solo Nike puede darte.",
+        "stock": 200,
+        "precio": 20000,
+        "imagen": "https://essential.vtexassets.com/arquivos/ids/967437-800-auto?v=638252169048870000&width=800&height=auto&aspect=true"
+    },
+    {
+        "id": 2,
+        "nombre": "CAMPERA UNDER ARMOUR DAY OF THE DEAD HOMBRE",
+        "category": "indumentaria",
+        "detalle": "La Campera Under Armour Day Of The Dead Hombre es tu aliada perfecta para tus deportes al aire libre. Su tela de poliéster brinda resistencia y transpirabilidad para mantener alejado el sudor de tu cuerpo durante toda tu actividad. Además, los puños elásticos son ideales para evitar el contacto del frío y del viento con tu cuerpo para que las bajas temperaturas no te detengan.",
+        "stock": 200,
+        "precio": 18000,
+        "imagen": "https://www.opensports.com.ar/media/catalog/product/cache/4769e4d9f3516e60f2b4303f8e5014a8/1/3/1329297-408_0_3.jpg"
+    },
+    {
+        "id": 3,
+        "nombre": "GORRA NIKE LEGACY91",
+        "category": "accesorios",
+        "detalle": "La gorra Nike Legacy91 está confeccionada en poliéster y con tecnología Dri-FIT para mantener la transpirabilidad y comodidad. Presenta el Swoosh frontal y bordado, además de adaptarse con comodidad gracias a sus seis paneles. Se ajusta con un cierre ajustable de velcro para un mayor control. El tejido Woven ofrece un confort único, mientras que la banda de transpiración French Terry es suave y absorbente. La protección que necesitás en cada swing.",
+        "stock": 100,
+        "precio": 5000,
+        "imagen": "https://www.opensports.com.ar/media/catalog/product/cache/072d5146ae4cbf4250016550f4b98156/D/H/DH1640-480_0.jpg"
+    },
+    {
+        "id": 4,
+        "nombre": "GUANTES NIKE ESSENTIAL FITNESS",
+        "category": "accesorios",
+        "detalle": "Ideales para levantamiento de pesas y tus rutinas de ejercicio, los Guantes Nike Essential Fitness te ayudarán a tener mejor agarre y desempeño en todo momento, así podrás mantener tu cuerpo en el mejor estado fitness de una forma práctica y segura en el gym o en la comodidad de tu casa.",
+        "stock": 150,
+        "precio": 4500,
+        "imagen": "https://www.dexter.com.ar/on/demandware.static/-/Sites-365-dabra-catalog/default/dw30692432/products/NI_AC4239-010/NI_AC4239-010-1.JPG"
+    },
+    {
+        "id": 5,
+        "nombre": "JOGGING ADIDAS BRANDLOVE HOMBRE",
+        "category": "indumentaria",
+        "detalle": "A todos tus planes diario sumale un poco de comodidad con el Pantalon adidas Brandlove Hombre. Este pantalón adidas es el indicado cuando buscás relajar en los momentos más intensos. También te resultarán perfectos para cuando el ritmo de la actividad baja. El suave tejido de felpa francesa se asegura de eso.",
+        "stock": 80,
+        "precio": 10500,
+        "imagen": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/ac4735b71c9048f4af61af5c00ff667a_9366/Pantalon_Brandlove_Gris_IC6799_21_model.jpg"
+    },
+    {
+        "id": 6,
+        "nombre": "PACK DE MEDIAS NIKE EVERYDAY LIGHTWEIGHT",
+        "category": "accesorios",
+        "detalle": "El Pack de Medias Nike Everyday Lightweight trae tres pares de medias cómodas y adaptables para que entrenes con toda la comodidad y calidad que Nike tiene para ofrecerte. Llevalo y que nunca te falten los accesorios más básicos para ejercitarte.",
+        "stock": 100,
+        "precio": 500,
+        "imagen": "https://woker.vtexassets.com/arquivos/ids/173494-1200-1200?v=637099648145700000&width=1200&height=1200&aspect=true"
+    },
+    {
+        "id": 7,
+        "nombre": "MOCHILA NIKE HIKE",
+        "category": "accesorios",
+        "detalle": "La Mochila Nike Hike es ideal para llevar con vos tus objetos más importantes con mucho estilo. Cuenta con un compartimento principal de gran tamaño y con un bolsillo delantero que permite guardar tus objetos más pequeños con mayor facilidad. Además, las correas acolchadas para los hombros ofrecen un confort único para que te desplaces con total comodidad y la parte inferior cuenta con un revestimiento para proteger tus cosas contra golpes y derrames.",
+        "stock": 50,
+        "precio": 15000,
+        "imagen": "https://www.dexter.com.ar/on/demandware.static/-/Sites-365-dabra-catalog/default/dwaef202bf/products/NIDJ9678-819/NIDJ9678-819-1.JPG"
+    },
+    {
+        "id": 8,
+        "nombre": "REMERA URBANA ADIDAS FUTURE ICONS",
+        "category": "indumentaria",
+        "detalle": "Agregá estilo deportivo a tus looks con la Remera Urbana adidas Future Icons Hombre. Una prenda que completa tu look ya sea para ir al gimnasio o para un plan casual por la ciudad con mucho estilo y comodidad. Hecha con un algodón suave y de calidad que podrás usar por muchos años. El logo Trifoil en el frente es la marca de la calidad que elegís vestir. ¡Agregala a tu pila de remeras favoritas!",
+        "stock": 100,
+        "precio": 9000,
+        "imagen": "https://www.stockcenter.com.ar/on/demandware.static/-/Sites-365-dabra-catalog/default/dwbc8c7e5c/products/ADHE2223/ADHE2223-1.JPG"
+    },
+    {
+        "id": 9,
+        "nombre": "RENERA ADIDAS ESSENTIALS LOGO",
+        "category": "indumentaria",
+        "detalle":"La remera adidas Essentials Logo es un clásico renovado que deberías tener en tu ropero. El gran logotipo en la parte frontal demuestra tu pasión por el deporte. Sin embargo, su diseño simple y elegante, permite completar cualquier look para cualquier plan. Desde una jornada de running, a un plan de tarde con amigos. Su corte relajado suma comodidad y aporte a tu estilo moderno. Además, este producto está hecho bajo la iniciativa Better Cotton, una respuesta de la marca en favor de la fabricación con algodón sostenible. Querrás tenerla siempre a mano para cualquier momento del día.",
+        "stock": 50,
+        "precio": 9500,
+        "imagen": "https://sporting.vtexassets.com/arquivos/ids/415233-1200-1200?width=1200&height=1200&aspect=true"
+    },
+    {
+        "id": 10,
+        "nombre": "SHORT ADIDAS AEROREADY ESSENTIALS CHELSEA HOMBRE",
+        "category": "indumentaria",
+        "detalle": "Sumá practicidad y estilo a tus ejercicios con el Short Entrenamiento adidas Aeroready Essentials Chelsea Hombre. Su diseño minimalista lo hace versátil ya que podrás combinarlo con cualquier prenda y destacarte ya sea en la universidad, en el shopping o en una salida con amigos. Sin importar la actividad o el lugar, siempre estarás seco y cómodo gracias al tejido con tecnología de absorción AEROREADY que aleja el sudor de tu piel y te permite disfrutar de todo tu día. Además, su cintura con elástico y cordón te brinda un ajuste perfecto para que te desplaces en cualquier dirección con total confianza.",
+        "stock": 100,
+        "precio": 10000,
+        "imagen": "https://sporting.vtexassets.com/arquivos/ids/908994-1200-1200?width=1200&height=1200&aspect=true"
+    },
+    {
+        "id": 11,
+        "nombre": "ZAPATILLAS ADIDAS DURAMO 10",
+        "category": "calzado",
+        "detalle": "Las Zapatillas adidas Duramo 10 presentan un diseño moderno y urbano, ideal para los runners que aman la moda. Su exterior de malla aporta transpirabilidad y resistencia, mientras que la suela de caucho aporta tracción en diversas superficies. La amortiguación LIGHTMOTION mejora tus pasos y te brinda la comodidad que necesitas para superar todas tus marcas.",
+        "stock": 40,
+        "precio": 40000,
+        "imagen": "https://sporting.vtexassets.com/arquivos/ids/758141-1200-1200?width=1200&height=1200&aspect=true"
+    },
+    {
+        "id": 12,
+        "nombre": "ZAPATILLAS NIKE COURT VISION",
+        "category": "calzado",
+        "detalle": "Las Zapatillas Nike Court Vision Hombre están diseñadas para ofrecer estilo y funcionalidad. Están inspiradas en el estilo retro de las zapatillas de baloncesto y combinan características modernas con detalles clásicos. Su diseño brindan mayor sujeción y protección. Tienen una parte superior construida con una combinación de materiales resistentes, como cuero y tela, que proporcionan durabilidad. La suela de goma duradera tiene un patrón de diseño en espiga que ofrece un buen agarre en superficies resbaladizas.",
+        "stock": 40,
+        "precio": 55000,
+        "imagen": "https://www.opensports.com.ar/media/catalog/product/cache/4769e4d9f3516e60f2b4303f8e5014a8/C/D/CD5463-001_0.jpg"
+    }
+]
