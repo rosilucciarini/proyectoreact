@@ -2,7 +2,9 @@
 
 # Total Deportes
 
-link pagina
+Link pagina 
+
+https://proyectoreact-six.vercel.app/
 
 
 
@@ -15,8 +17,10 @@ Cuenta con 12 productos los cuales se muestran en su totalidad en el Home, se pu
 + React-router-dom
 + Firebase
 + Bootstrap
++ Deploy Vercel
 
-## VISTAS
+
+
 
 
 
